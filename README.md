@@ -44,7 +44,7 @@ This project features an **interactive Tableau dashboard** designed to analyze a
 
 ## 🔗 **How to View the Dashboard**  
 Explore the interactive Tableau dashboard here:  
-[**Tableau Public Link**](#) *(Replace `#` with your actual Tableau Public link)*  
+[**Tableau Public Link**](#) 
 
 ---
 
